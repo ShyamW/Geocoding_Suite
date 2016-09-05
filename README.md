@@ -9,7 +9,7 @@ This Geocoding Suite provides many useful Geographical Conversions, including:
  * Lat and Long to County Data (Fips, County Name, state, and abbv. state)
  * Zipcode to CBSA codes
 
-** Note: 1 complimentary API key is hardcoded for demo purposes, please do not abuse! **
+**Note: 1 complimentary API key is hardcoded for demo purposes, please do not abuse!**
 
 ##	Specific Modules
 ***
