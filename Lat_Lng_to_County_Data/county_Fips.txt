@@ -1,0 +1,77 @@
+Brown,Nebraska
+Gratiot,Michigan
+Anoka,Minnesota
+Arapahoe,Colorado
+Garden,Nebraska
+Fremont,Idaho
+Rockingham,New Hampshire
+Kane,Illinois
+Rush,Indiana
+Henry,Virginia
+Carter,Missouri
+Essex,New Jersey
+Hillsborough,Florida
+Prince William,Virginia
+Morrill,Nebraska
+Douglas,Wisconsin
+Pinellas,Florida
+Silver Bow,Montana
+Dawes,Nebraska
+Dawes,Nebraska
+Clinton,Iowa
+Cumberland,Tennessee
+Moffat,Colorado
+Dawes,Nebraska
+Douglas,Nebraska
+Dakota,Nebraska
+Boulder,Colorado
+Dubois,Indiana
+None,None
+Clinton,Michigan
+Gem,Idaho
+None,None
+Buffalo,Nebraska
+Gordon,Georgia
+error
+Cedar,Nebraska
+Sheridan,Nebraska
+Kenai Peninsula,Alaska
+Gibson,Tennessee
+Spartanburg,South Carolina
+Buffalo,Nebraska
+Garden,Nebraska
+Androscoggin,Maine
+Fayette,Kentucky
+Marion,Iowa
+Brown,Nebraska
+Sherman,Nebraska
+Boyd,Nebraska
+None,None
+Red Willow,Nebraska
+Douglas,Kansas
+Madison,Nebraska
+Scotts Bluff,Nebraska
+Cherry,Nebraska
+New Haven,Connecticut
+Scotts Bluff,Nebraska
+Calloway,Kentucky
+Cass,Nebraska
+Norfolk,Virginia
+Suffolk,New York
+Washington,Minnesota
+Alameda,California
+Keith,Nebraska
+Keith,Nebraska
+Holt,Nebraska
+Winnebago,Wisconsin
+Pawnee,Nebraska
+Shannon,South Dakota
+Cass,Nebraska
+None,None
+Rush,Indiana
+Schuyler,Illinois
+Sheridan,Nebraska
+Scotts Bluff,Nebraska
+Scotts Bluff,Nebraska
+Fairfield,Connecticut
+New Haven,Connecticut
